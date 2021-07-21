@@ -1,2 +1,2 @@
-# fscore
-backtest do modelo de Piotroski F Score
+# F-Score
+Backtest do modelo de Piotroski F Score
